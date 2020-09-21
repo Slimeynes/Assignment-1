@@ -1,11 +1,13 @@
 fileFormatVersion: 2
-guid: 872973632dada4247888a851c4317a05
-timeCreated: 1599839314
+guid: c0133dcdfe09fec4498fbcc060f9c5f6
+timeCreated: 1600186429
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Basic tank_0
-    21300002: Basic tank_1
+    21300000: basic tank sheet 2_0
+    21300002: basic tank sheet 2_1
+    21300004: basic tank sheet 2_2
+    21300006: basic tank sheet 2_3
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -80,13 +82,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Basic tank_0
+      name: basic tank sheet 2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 1
+        y: 1
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -94,13 +96,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Basic tank_1
+      name: basic tank sheet 2_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 14
+        y: 1
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic tank sheet 2_2
+      rect:
+        serializedVersion: 2
+        x: 38
         y: 0
-        width: 16
-        height: 16
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic tank sheet 2_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 10
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
